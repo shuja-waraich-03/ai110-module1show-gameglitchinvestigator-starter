@@ -26,12 +26,23 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+- Number guesssing game.
+- Input a number in the range of game mode, the game will tell you if you should go higher or lower, correct you answer based on that. If you get the right answer in the allotted tries then you win!
+
 - [ ] Detail which bugs you found.
+- Hint Mechanism
+- Difficult Level Attempts
+- Difficulty Level Range
+
 - [ ] Explain what fixes you applied.
+- Corrected the hint logic, if guess is higher than the number then hint should say go lower and vice versa
+- Corrected the number of attempts given at each difficulty level
+- Corrected the range of number to guess from for depending on the difficulty
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![My screenshot](winning.png)
+
 
 ## 🚀 Stretch Features
 
