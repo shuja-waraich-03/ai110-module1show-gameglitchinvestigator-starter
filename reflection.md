@@ -9,9 +9,12 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   (for example: "the hints were backwards").
 
 
+
+
 **Yes the hints were backwards:**
-- when i moved towards a lower number it would keep asking me to go lower
-- but when i moves to a higher number it would keep asking me to move higher
+
+*when i moved towards a lower number it would keep asking me to go lower
+*but when i moves to a higher number it would keep asking me to move higher
 
 **New game button didn't work**
 
@@ -25,6 +28,12 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+
+***I used copilot***
+
+***The AI got the update score function correct and moved it accordingly to the logic file***
+
+***It did not however understand the logic corrections needed for difficulty range and number of attemps, one of them i told it to do explicitly and one i fixed manually***
 
 ---
 
