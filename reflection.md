@@ -44,11 +44,20 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   and what it showed you about your code.
 - Did AI help you design or understand any tests? How?
 
+
+*I mostly tested it on the app myself, but the ai also helped me write a few tests.*
+*I tested the hint mechanism, difficulty toggle, new game button by using the app*
+
+*Yes I went over how the update score test worked with the AI, both for implementation and understanding*
+
 ---
 
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+
+*States basically tell what changes and what doesn't, streamlit updates states after every interaction (because page rebuilds), but to store values we then use session states*
+
 
 ---
 
@@ -58,3 +67,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+*Verify all the code AI gives me*
+
+*Always make my intent clear, AI is not good at infering intent*
+
+*Be more explicit with my instructions, and keep the scope of changes managable so that i also have context of what's happening*
+
+*AI is very good at writing code, but not as effective as writing functional code. You need to be adding the functionality dimension yourself. Also the code is pretty much always correct but that doesn't mean it does what you want it to though*
