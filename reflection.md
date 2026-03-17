@@ -8,6 +8,16 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
 
+
+**Yes the hints were backwards:**
+- when i moved towards a lower number it would keep asking me to go lower
+- but when i moves to a higher number it would keep asking me to move higher
+
+**New game button didn't work**
+
+**Difficulties weren't calibrated correctly, both easy and hard gave less tries than normal**
+
+
 ---
 
 ## 2. How did you use AI as a teammate?
